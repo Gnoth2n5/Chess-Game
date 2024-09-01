@@ -1,0 +1,11 @@
+.table th, .table td{
+    border: 1px solid black;
+    padding: 8px 18px;
+    text-align: center;
+}
+
+.table-container{
+    height: 250px;
+    max-height: 250px;
+    overflow-y: auto;
+}
